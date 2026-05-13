@@ -8,6 +8,9 @@ Built with Python, Flask, and SQLite.
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?logo=sqlite)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-orange?logo=google)
 
+## 📸 Screenshot
+![alt text](screenshot1-1.png)
+![alt text](screenshot2-1.png)
 ## ✨ Features
 
 - **AI-Powered Analysis** — Each task is analyzed by Google Gemini, which provides a personalized productivity suggestion
